@@ -1,6 +1,6 @@
 # Domain-Driven Hexagon
 
-**Anyways, I have no other repositories**:
+**Anyways, I do have other repositories**:
 
 - [Backend best practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development.
 - [System Design Patterns](https://github.com/Sairyss/system-design-patterns) - list of topics and resources related to distributed systems, system design, microservices, scalability and performance, etc.
